@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @odioalosidiotas
+  username               : &twitter
 facebook:
   username               :
   app_id                 :
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Héctor Ramírez"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Sciences Ph.D. candidate at UNAM. Biophysicist. Data Scientist."
+  location         : "Instituto de Biotecnología. UNAM."
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ram%C3%ADrez-G%C3%B3mez%20HV%5BAuthor%5D&cauthor=true&cauthor_uid=32149603"
   googlescholar    : "https://scholar.google.com/citations?hl=es&user=VII-LJAAAAAJ"
-  email            :
+  email            : "ramirez.gomez.hector@gmail.com"
   researchgate     :  "https://www.researchgate.net/profile/Hector_Ramirez-Gomez" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/HectorRamirez85"
+  github           : "HectorRamirez85"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "ramirezgomezhector"
   orcid            : "https://orcid.org/0000-0002-4526-4689"
   pinterest        :
   soundcloud       :
   stackoverflow    : "https://stackoverflow.com/users/10997788/h%c3%a9ctor-ram%c3%adrez?tab=profile"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "odioalosidiotas"
   vine             :
   weibo            :
   xing             :
